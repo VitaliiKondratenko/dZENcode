@@ -10,7 +10,7 @@
 ## About dZENcode app
 
 dZENcode application is a SPA comment app, where you can easily chat with users. This app was created on Laravel(PHP Framework), based on MVC and SOLID rules. In the process of working on this project such Laravel features were used:
-- [Eloquent ORM](https://laravel.com/docs/routing](https://laravel.com/docs/9.x/eloquent);
+- [Eloquent ORM](https://laravel.com/docs/9.x/eloquent);
 - [Schema Migrations](https://laravel.com/docs/9.x/migrations#main-content);
 - [Data sotring](https://laravel.com/docs/9.x/pagination);
 - [HTTP sessions](https://laravel.com/docs/9.x/session#main-content);
