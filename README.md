@@ -22,7 +22,7 @@ dZENcode application is a SPA comment app, where you can easily chat with users.
 - **Istall XAMPP;
 - **Istall Node.js;
 - **Transfer FULL project to ../XAMPP/htdocs
-- **Then you shholud import dbfile to your localhost database. Db file is in git repository *.sql
+- **Then you should import dbfile to your localhost database. Db file is in git repository *.sql
 - **Open Teminal from project folder and write: php artisan serve
 - **Open new Terminal and write: npm run dev
 - **Now your server application running on http://127.0.0.1:8000
